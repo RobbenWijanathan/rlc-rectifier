@@ -1,0 +1,7 @@
+t = 1
+Ammeter_LED1 = 2
+Ammeter_LED2 = 3
+Ammeter_LED3 = 4
+Ammeter_Source = 5
+Voltmeter_VCap = 6
+Voltmeter_VGenerator = 7

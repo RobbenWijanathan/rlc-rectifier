@@ -1,0 +1,16 @@
+Resistor,RCapacitor,1M,0.1
+Resistor,Resistor1,7M,220.0
+Resistor,Resistor2,13M,220.0
+Resistor,Resistor3,19M,220.0
+Resistor,Load,25J,130.0
+Resistor,RGenerator,32A,0.1
+Capacitor,Capacitor,1O,2.2e-05,Positive polarity towards (cell) = 1N
+Ammeter,LED1,7O,Positive polarity towards (cell) = 7P
+Ammeter,LED2,13O,Positive polarity towards (cell) = 13P
+Ammeter,LED3,19O,Positive polarity towards (cell) = 19P
+Ammeter,Source,25F,Positive polarity towards (cell) = 25G
+Diode,Diode,25C,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 25D
+Inductor,Ifilter,25D,0.4
+Voltmeter,VCap,25N,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 25M
+Voltmeter,VGenerator,33D,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 32D
+VoltageSource,VGenerator,34A,Peak (Volts) = 7.071000,Frequency (Hertz) = 20.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 33A
